@@ -28,7 +28,7 @@
   
   .nav-masthead .active {
     color: rgb(19, 19, 19);
-    border-bottom-color: #fff;
+    border-bottom-color: rgb(19, 18, 18);
   }
   body {
     text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
