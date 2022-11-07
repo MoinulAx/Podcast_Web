@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fasthand&family=Fuzzy+Bubbles&family=Griffy&family=Indie+Flower&family=Josefin+Sans&family=Lora&family=Poor+Story&family=Press+Start+2P&family=Silkscreen&display=swap');
-/*
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fasthand&family=Fuzzy+Bubbles&family=Griffy&family=Indie+Flower&family=Josefin+Sans&family=Lora&family=Poor+Story&family=Press+Start+2P&family=Silkscreen&family=Special+Elite&display=swap');/*
  * Globals
  */
 
@@ -28,7 +27,7 @@ body {
   max-width: 42em;
 }
 .float-md-start{
-  font-family: 'Poor Story', cursive;
+  font-family: 'Bebas Neue', cursive;
 
 }
 
